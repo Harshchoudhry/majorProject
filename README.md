@@ -1,6 +1,6 @@
 # ML-TOOLBOX:
 
-- This repo contains different different ml projects and tools for daily use.
+- This repo contains ml projects and tools for daily use.
 - For front end - html, css, javascript.
 - For backend - django
 
